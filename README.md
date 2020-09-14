@@ -1,3 +1,2 @@
 # native-test
 
-hello hello
